@@ -17,8 +17,8 @@ To complete this project you will need the following:
 
 ## Desired Outcome
 At the completion of this exercise, students should understand:
-- Modifying HTML Elements through the DOM
 - Better understanding of the HTML structure
+- Modifying HTML Elements through the DOM
 
 ## Your Challenge
 1. **Fork** this repository

@@ -16,14 +16,20 @@ p{
   text-align: center;
 }
 
-h1, h2{
+h1 {
   text-align: center;
   font-size: 50px;
   font-weight: bold;
   color:   #ffcc00;
   font-family: 'Bungee Shade', cursive;
+}
 
+h2 {
+  text-align: center;
+}
 
+.title {
+  color: blue;
 }
 
 .row{
@@ -48,32 +54,4 @@ img{
 img:hover{
   -webkit-transform: rotate(360deg);
           transform: rotate(360deg);
-}
-
-#name1, #position1, #alias1, #bio1 {
-  text-align: center;
-}
-
-#name2, #position2, #alias2, #bio2 {
-  text-align: center;
-}
-
-#name3, #position3, #alias3, #bio3 {
-  text-align: center;
-}
-
-.name, .position, .alias, .profile{
-  text-align: center;
-}
-
-#name7, #position7, #alias7, #bio7 {
-  text-align: center;
-}
-
-#name8, #position8, #alias8, #bio8, #aliasBox {
-  text-align: center;
-}
-
-#name9, #position9, #alias9, #bio9 {
-  text-align: center;
 }

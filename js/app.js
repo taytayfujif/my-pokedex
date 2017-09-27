@@ -1,64 +1,62 @@
-/*Use the Document Object Model (DOM) to complete the following exercises below:*/
-
-/*1. Taylor Swift
-
-Find the div with the id of "name1" and replace the n/a with the following:
-
-Tay-Tay*/
-
-document.getElementById("name1").innerHTML = "Tay Tay"
+//Use the Document Object Model (DOM) to complete the following exercises below:
 
 
-/*2. DJ Khaled
-
-Find the div with the id of "position2" and replace the n/a with the following:
-
-Project Manager*/
-
-
-/*3. Piko Taro
-
-Find the div with the id of "alias3" and replace the n/a with the following:
-
-Concatenation*/
+// Pokemon 1
+// Find the div with the id of "name1" and replace the n/a with "Tentacool"
+// Place your code below
 
 
 
 
-/*4. Prince
 
-Find the div with the class name of "profile" and replace the n/a with a verse from your favorite Prince song.*/
-
-
-
-/*5. Bruce Lee
-
-Find the div with the class name of "profile" and replace the n/a with a quote from the legend himself.*/
+// Pokemon 2
+// Find the div with the id of "type2" and replace the n/a with "water"
+// Place your code below
 
 
 
-/*6. Samuel L Jackson
-
-Find the div with the class name of "alias" and replace the n/a with your favorite character that Sammy portrayed.*/
 
 
-
-/*7. Peter Griffin
-
-Create a div element and give it an id of "name7". Inside this div element, give it the contents of "Peter Griffin".
-
-Append this div element to the nameParent div*/
+// Pokemon 3
+// Find the div with the id of "pokeNumber3" and replace the n/a with 116:
+// Place your code below
 
 
 
-/*8. Tim Duncan
-
-Create a div element give it an id of "alias8". Inside this div element, give it the contents of "Old Man Riverwalk".
-
-Append this div element to the aliasParent div.*/
 
 
+// Pokemon 4
+// Find the div with the id of "bio4" and replace the n/a with your personal description of this Pokemon.
+// Place your code below
 
-//Final Boss
-/*9. Create your own profile.*/
+
+
+
+
+// Pokemon 5
+// Find the div with the id of "bio5" and replace the the font color to "red";
+// Place your code below
+
+
+
+
+
+// Pokemon 6
+// Find the div with the id of "name6 and replace the font size to "60px";
+// Place your code below
+
+
+
+
+
+// Pokemon 7
+// Create a div and set an id of "name6". Inside the div element, give it the name "Unknown Pokemon".
+// Append this div element to the nameParent div*/
+
+
+
+
+
+// STRETCH GOAL: Create your own pokemon
+
 

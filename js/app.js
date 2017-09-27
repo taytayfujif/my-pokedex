@@ -16,7 +16,6 @@
 
 
 
-
 // Pokemon 3
 // Find the div with the id of "pokeNumber3" and replace the n/a with 116:
 // Place your code below
@@ -42,7 +41,7 @@
 
 
 // Pokemon 6
-// Find the div with the id of "name6 and replace the font size to "60px";
+// Find the div with the id of "name6" and replace the font size to "60px";
 // Place your code below
 
 
@@ -50,7 +49,7 @@
 
 
 // Pokemon 7
-// Create a div and set an id of "name6". Inside the div element, give it the name "Unknown Pokemon".
+// Find the div with the id of "container" and change the background color to "green"
 // Append this div element to the nameParent div*/
 
 

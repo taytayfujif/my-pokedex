@@ -7,8 +7,6 @@
 
 
 
-
-
 // Pokemon 2
 // Find the div with the id of "type2" and replace the n/a with "water"
 // Place your code below

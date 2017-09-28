@@ -2,7 +2,7 @@
 
 
 // Pokemon 1
-// Find the div with the id of "name1" and replace the n/a with "Tentacool"
+// Find the div with the id of "name1" and replace the text n/a with "Tentacool"
 // Place your code below
 
 
@@ -10,14 +10,14 @@
 
 
 // Pokemon 2
-// Find the div with the id of "type2" and replace the n/a with "water"
+// Find the div with the id of "type2" and replace the text n/a with "water"
 // Place your code below
 
 
 
 
 // Pokemon 3
-// Find the div with the id of "pokeNumber3" and replace the n/a with 116:
+// Find the div with the id of "pokeNumber3" and replace the text n/a with 116:
 // Place your code below
 
 
@@ -25,7 +25,7 @@
 
 
 // Pokemon 4
-// Find the div with the id of "bio4" and replace the n/a with your personal description of this Pokemon.
+// Find the div with the id of "bio4" and replace the text n/a with your personal description of this Pokemon.
 // Place your code below
 
 
@@ -50,12 +50,7 @@
 
 // Pokemon 7
 // Find the div with the id of "container" and change the background color to "green"
-// Append this div element to the nameParent div*/
+// Append this div element to the "nameParent" div*/
 
-
-
-
-
-// STRETCH GOAL: Create your own pokemon
 
 

@@ -48,7 +48,6 @@
 
 // Pokemon 7
 // Find the div with the id of "container" and change the background color to "green"
-// Append this div element to the "nameParent" div*/
-
+// Place your code below
 
 
